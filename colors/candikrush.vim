@@ -15,7 +15,7 @@ hi Character guifg=#008000 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NON
 hi Number guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Identifier guifg=#f6a192 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Identifier guifg=#e45a00 ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#0096ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -107,7 +107,7 @@ hi TSFuncMacro guifg=#0096ff ctermfg=33 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi TSParameter guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSField guifg=#f6a192 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSField guifg=#e45a00 ctermfg=166 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConditional guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
