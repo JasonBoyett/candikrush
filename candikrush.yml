@@ -9,7 +9,7 @@ palette:
 
   red: "#F44747"
   error_red: "#D16969"
-  salmon: "#FA8072"
+  peach: "#f6a192"
   green: "#06c713"
   light_green: "#03ff13"
   yellow: "#f7ff03"
@@ -75,7 +75,7 @@ highlights:
   Structure: "yellow"
   Typedef: "pink"
   Special: "blue - i"
-  SpecialComment: "sky_blue"
+  SpecialComment: "light_blue"
   Error: "error_red - br"
   Todo: "yellow - bi"
   Underlined: "cyan . u"
@@ -128,7 +128,7 @@ highlights:
 
   # -- Start Treesitter --
   # Misc
-  TSComment: "sky_blue"
+  TSComment: "light_blue"
   TSError: "error_red"
   TSPunctDelimiter: "white"
   TSPunctBracket: "blue"
@@ -155,7 +155,7 @@ highlights:
   TSParameter: "red"
   TSParameterReference: "red"
   TSMethod: "yellow"
-  TSField: "salmon"
+  TSField: "peach"
   TSProperty: "light_blue"
   TSConstructor: "pink"
   # Keywords

@@ -35,7 +35,7 @@ hi StorageClass guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi Structure guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Special guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=italic cterm=italic
-hi SpecialComment guifg=#9cf2ff ctermfg=159 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi SpecialComment guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#d16969 ctermfg=167 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
 hi Todo guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#4ec9b0 ctermfg=79 gui=underline cterm=underline
@@ -83,7 +83,7 @@ hi VisualNOS guifg=#3e4452 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi WarningMsg guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WildMenu guifg=#1e1e1e ctermfg=234 guibg=#0871f9 ctermbg=27 gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#1e1e1e ctermfg=234 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSComment guifg=#9cf2ff ctermfg=159 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSComment guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSError guifg=#d16969 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctDelimiter guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSPunctBracket guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -107,7 +107,7 @@ hi TSFuncMacro guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=N
 hi TSParameter guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSField guifg=#fa8072 ctermfg=209 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSField guifg=#f6a192 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConditional guifg=#5d00ff ctermfg=57 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
