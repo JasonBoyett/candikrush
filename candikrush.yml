@@ -82,7 +82,7 @@ highlights:
   Cursor: "cursor_fg cursor_bg"
 
   ColorColumn: "- cursor_grey"
-  CursorLineNr: "white - b"
+  CursorLineNr: "pink - i"
   SignColumn: "- bg"
   Conceal: "line_grey"
   CursorColumn: "- cursor_grey"
@@ -379,7 +379,6 @@ highlights:
   # MoreMsg: "green - br"
   # Question: "cyan - br"
   # Directory: "blue - b"
-  CursorLineNr: "purple"
    
   # VimWiki
   VimwikiHeader1: "orange - b"

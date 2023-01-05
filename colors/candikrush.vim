@@ -41,7 +41,7 @@ hi Todo guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=bold,italic cterm=
 hi Underlined guifg=#4ec9b0 ctermfg=79 gui=underline cterm=underline
 hi Cursor guifg=#515052 ctermfg=239 guibg=#aeafad ctermbg=145 gui=NONE cterm=NONE
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#2c323c ctermbg=236 gui=NONE cterm=NONE
-hi CursorLineNr guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CursorLineNr guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
 hi Conceal guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi CursorColumn guifg=NONE ctermfg=NONE guibg=#2c323c ctermbg=236 gui=NONE cterm=NONE
