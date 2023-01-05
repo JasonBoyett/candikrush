@@ -144,7 +144,7 @@ highlights:
   TSCharacter: "green"
   TSNumber: "purple"
   TSBoolean: "pink"
-  TSFloat: "light_green"
+  TSFloat: "pink"
   TSAnnotation: "yellow"
   TSAttribute: "cyan"
   TSNamespace: "cyan"

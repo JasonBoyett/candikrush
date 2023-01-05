@@ -97,7 +97,7 @@ hi TSStringEscape guifg=#e7f520 ctermfg=190 guibg=NONE ctermbg=NONE gui=NONE cte
 hi TSCharacter guifg=#008000 ctermfg=28 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNumber guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSBoolean guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSFloat guifg=#03ff13 ctermfg=46 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSFloat guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAnnotation guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAttribute guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSNamespace guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
