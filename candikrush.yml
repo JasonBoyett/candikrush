@@ -142,7 +142,7 @@ highlights:
   TSString: "green"
   TSStringEscape: "dark_yellow"
   TSCharacter: "green"
-  TSNumber: "light_green"
+  TSNumber: "purple"
   TSBoolean: "pink"
   TSFloat: "light_green"
   TSAnnotation: "yellow"
