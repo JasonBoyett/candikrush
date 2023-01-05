@@ -105,7 +105,7 @@ highlights:
   PmenuThumb: "- white"
   Question: "purple"
   QuickFixLine: "- line_grey"
-  Search: "- yellow_grey"
+  Search: "- visual_grey"
   SpecialKey: "special_grey"
   SpellBad: "error_red - u"
   SpellCap: "dark_yellow"
