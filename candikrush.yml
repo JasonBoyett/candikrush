@@ -48,14 +48,14 @@ palette:
 highlights:
   Normal: "fg bg"
 
-  Comment: "light_green - i"
+  Comment: "light_blue - i"
   Constant: "orange"
   String: "green"
   Character: "green"
   Number: "pink"
   Boolean: "pink"
   Float: "pink"
-  Identifier: "light_blue"
+  Identifier: "peach"
   Function: "blue"
   Statement: "purple"
   Conditional: "purple"

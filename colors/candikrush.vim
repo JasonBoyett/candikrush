@@ -8,14 +8,14 @@ endif
 let g:colors_name='candikrush'
 
 hi Normal guifg=#abb2bf ctermfg=249 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
-hi Comment guifg=#03ff13 ctermfg=46 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#f7be02 ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Number guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Boolean guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Float guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Identifier guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Identifier guifg=#f6a192 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Function guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Statement guifg=#5d00ff ctermfg=57 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Conditional guifg=#5d00ff ctermfg=57 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
