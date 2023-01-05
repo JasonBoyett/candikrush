@@ -8,7 +8,7 @@ endif
 let g:colors_name='candikrush'
 
 hi Normal guifg=#abb2bf ctermfg=249 guibg=#1e1e1e ctermbg=234 gui=NONE cterm=NONE
-hi Comment guifg=#9cf2ff ctermfg=159 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Comment guifg=#03ff13 ctermfg=46 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#f7be02 ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Character guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

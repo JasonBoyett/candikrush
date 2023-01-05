@@ -48,7 +48,7 @@ palette:
 highlights:
   Normal: "fg bg"
 
-  Comment: "sky_blue - i"
+  Comment: "light_green - i"
   Constant: "orange"
   String: "green"
   Character: "green"
