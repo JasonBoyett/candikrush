@@ -331,7 +331,7 @@ highlights:
   NvimTreeIndentMarker: "line_grey"
   NvimTreeSymlink: "symlink"
   NvimTreeFolderIcon: "blue"
-  NvimTreeRootFolder: "fg - b"
+  NvimTreeRootFolder: "pink - b"
   NvimTreeExecFile: "executable"
   NvimTreeSpecialFile: "info_yellow"
 
@@ -379,6 +379,7 @@ highlights:
   # MoreMsg: "green - br"
   # Question: "cyan - br"
   # Directory: "blue - b"
+  CursorLineNr: "purple"
    
   # VimWiki
   VimwikiHeader1: "orange - b"
