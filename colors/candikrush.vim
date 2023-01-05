@@ -22,7 +22,7 @@ hi Conditional guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=
 hi Repeat guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Label guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Operator guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Keyword guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi Keyword guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Exception guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi PreProc guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Include guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -106,7 +106,7 @@ hi TSFunction guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSFuncMacro guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSMethod guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSMethod guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSField guifg=#f6a192 ctermfg=216 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSProperty guifg=#11d6f5 ctermfg=45 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSConstructor guifg=#fe00e7 ctermfg=200 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -203,7 +203,7 @@ hi StartifySection guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE ct
 hi StartifyFooter guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKey guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeySeperator guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi WhichKeyGroup guifg=#0026ff ctermfg=21 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi WhichKeyGroup guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi WhichKeyDesc guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffAdded guifg=#06c713 ctermfg=40 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi diffRemoved guifg=#f44747 ctermfg=203 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -220,11 +220,11 @@ hi LspDiagnosticsUnderlineHint guifg=#729cb3 ctermfg=73 guibg=NONE ctermbg=NONE 
 hi LspDiagnosticsSignError guifg=#d16969 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsSignWarning guifg=#ff8800 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsSignInformation guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspDiagnosticsSignHint guifg=#0026ff ctermfg=21 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsSignHint guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextError guifg=#d16969 ctermfg=167 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextWarning guifg=#ff8800 ctermfg=208 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi LspDiagnosticsVirtualTextInformation guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi LspDiagnosticsVirtualTextHint guifg=#0026ff ctermfg=21 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LspDiagnosticsVirtualTextHint guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi QuickScopePrimary guifg=#00c7df ctermfg=44 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi QuickScopeSecondary guifg=#ef5f70 ctermfg=203 guibg=NONE ctermbg=NONE gui=underline cterm=underline
 hi MatchWord guifg=NONE ctermfg=NONE guibg=NONE ctermbg=NONE gui=underline cterm=underline
@@ -267,7 +267,7 @@ hi VimwikiHeader3 guifg=#0871f9 ctermfg=27 guibg=NONE ctermbg=NONE gui=bold cter
 hi VimwikiHeader4 guifg=#4ec9b0 ctermfg=79 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi VimwikiHeader5 guifg=#e7f520 ctermfg=190 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi VimwikiHeader6 guifg=#ac4fc6 ctermfg=134 guibg=NONE ctermbg=NONE gui=bold cterm=bold
-hi VimwikiLink guifg=#0026ff ctermfg=21 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi VimwikiLink guifg=#1f51ff ctermfg=27 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiHeaderChar guifg=#5c6370 ctermfg=241 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiHR guifg=#f7ff03 ctermfg=226 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VimwikiList guifg=#f7be02 ctermfg=214 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
